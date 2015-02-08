@@ -1,2 +1,2 @@
-# polynomial_regression
-Tools for choosing and combining features 
+# Polynomial Regression
+Tools for choosing and combining features for polynomial regressions 
