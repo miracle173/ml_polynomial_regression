@@ -1,2 +1,2 @@
 # polynomial_regression
-Combine features to polynomials
+Tools for choosing and combining features 
